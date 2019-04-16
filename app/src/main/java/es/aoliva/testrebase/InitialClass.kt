@@ -4,5 +4,5 @@ class InitialClass {
 
     fun sayMyName() = "Heisenberg"
 
-    fun imTheOne() = "Who cooks"
+    fun imTheOne() = "Who pulls"
 }
